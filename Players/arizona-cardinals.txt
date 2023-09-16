@@ -1,0 +1,80 @@
+Joshua Dobbs,QB,28,6' 3",216 lbs,7,Tennessee
+Jeff Driskel,QB,30,6' 4",235 lbs,8,Louisiana Tech
+Kyler Murray,QB,26,5' 10",207 lbs,5,Oklahoma
+Clayton Tune,QB,24,6' 3",220 lbs,R,Houston
+Corey Clement,RB,28,5' 10",220 lbs,7,Wisconsin
+James Conner,RB,28,6' 1",233 lbs,7,Pittsburgh
+Emari Demercado,RB,24,5' 9",215 lbs,R,TCU
+Keaontay Ingram,RB,23,6' 0",221 lbs,2,USC
+Marlon Mack,RB,27,5' 11",210 lbs,7,South Florida
+Daniel Arias,WR,25,6' 3",216 lbs,R,Colorado
+Andre Baccellia,WR,26,5' 10",175 lbs,2,Washington
+Marquise Brown,WR,26,5' 9",180 lbs,5,Oklahoma
+Kaden Davis,WR,24,6' 1",190 lbs,1,--
+Greg Dortch,WR,25,5' 7",175 lbs,3,Wake Forest
+Rondale Moore,WR,23,5' 7",180 lbs,3,Purdue
+Zach Pascal,WR,28,6' 2",215 lbs,6,Old Dominion
+Michael Wilson,WR,23,6' 2",213 lbs,R,Stanford
+Zach Ertz,TE,32,6' 5",250 lbs,11,Stanford
+Elijah Higgins,TE,22,6' 3",235 lbs,R,Stanford
+Trey McBride,TE,23,6' 4",246 lbs,2,Colorado State
+Bernhard Seikovits,TE,26,6' 5",262 lbs,1,--
+Geoff Swaim,TE,29,6' 4",260 lbs,9,Texas
+Blake Whiteheart,TE,23,6' 4",247 lbs,R,Wake Forest
+Trystan Colon,C,25,6' 3",313 lbs,4,Missouri
+Keith Ismael,C,25,6' 3",309 lbs,3,San Diego State
+Dennis Daley,G,27,6' 6",325 lbs,5,South Carolina
+Pat Elflein,G,29,6' 2",303 lbs,7,Ohio State
+Hjalte Froholdt,G,27,6' 5",310 lbs,5,Arkansas
+Jon Gaines II,G,24,6' 4",303 lbs,R,UCLA
+Marquis Hayes,G,24,6' 5",318 lbs,2,Oklahoma
+Will Hernandez,G,28,6' 2",332 lbs,6,UTEP
+Hayden Howerton,G,24,6' 3",300 lbs,1,SMU
+Ilm Manning,G,24,6' 2",294 lbs,3,Hawai'i'
+Jackson Barton,OT,28,6' 7",302 lbs,5,Utah
+Kelvin Beachum,OT,34,6' 3",308 lbs,12,SMU
+D.J. Humphries,OT,29,6' 5",307 lbs,9,Florida
+Paris Johnson Jr.,OT,22,6' 6",313 lbs,R,Ohio State
+Carter O'Donnell,OT,24,6' 5",313 lbs,2,Alberta
+Elijah Wilkinson,OT,28,6' 6",314 lbs,7,Massachusetts
+Eric Banks,DE,25,6' 5",274 lbs,2,UTSA
+L.J. Collier,DE,28,6' 2",291 lbs,5,TCU
+Jonathan Ledbetter,DE,26,6' 4",282 lbs,3,Georgia
+Ben Stille,DE,25,6' 4",296 lbs,2,Nebraska
+Kevin Strong,DE,27,6' 4",295 lbs,5,UTSA
+Leki Fotu,DT,25,6' 5",334 lbs,4,Utah
+Dante Stills,DT,23,6' 4",286 lbs,R,West Virginia
+Carlos Watkins,DT,29,6' 3",305 lbs,7,Clemson
+Krys Barnes,LB,25,6' 2",229 lbs,4,UCLA
+Zaven Collins,LB,24,6' 4",260 lbs,3,Tulsa
+Victor Dimukeje,LB,23,6' 2",262 lbs,3,Duke
+Dennis Gardeck,LB,29,6' 0",232 lbs,6,Sioux Falls
+Jesse Luketa,LB,24,6' 3",253 lbs,2,Penn State
+Tyreek Maddox-Williams,LB,25,6' 0",228 lbs,1,Rutgers
+BJ Ojulari,LB,21,6' 2",248 lbs,R,LSU
+Owen Pappoe,LB,22,6' 0",225 lbs,R,Auburn
+Myjai Sanders,LB,25,6' 5",248 lbs,2,Cincinnati
+Cameron Thomas,LB,23,6' 4",267 lbs,2,San Diego State
+Ezekiel Turner,LB,27,6' 2",214 lbs,6,Washington
+Kyzir White,LB,27,6' 2",234 lbs,6,West Virginia
+Josh Woods,LB,27,6' 1",230 lbs,5,Maryland
+Kris Boyd,CB,27,5' 11",195 lbs,5,Texas
+Kei'Trel Clark,CB,22,5' 10",181 lbs,R,Louisville
+Rashad Fenton,CB,26,5' 11",188 lbs,4,South Carolina
+Antonio Hamilton Sr.,CB,30,6' 0",195 lbs,8,South Carolina State
+Christian Matthew,CB,26,6' 2",195 lbs,2,Valdosta State
+Kyler McMichael,CB,23,6' 0",202 lbs,1,North Carolina
+Bobby Price,CB,25,6' 4",205 lbs,4,Norfolk State
+Starling Thomas V,CB,23,5' 10",194 lbs,R,UAB
+Quavian White,CB,23,5' 8",187 lbs,R,Georgia State
+Garrett Williams,CB,22,5' 10",192 lbs,R,Syracuse
+Divaad Wilson,CB,23,6' 0",195 lbs,R,UCF
+Marco Wilson,CB,24,6' 0",191 lbs,3,Florida
+Budda Baker,S,27,5' 10",195 lbs,7,Washington
+Andre Chachere,S,27,6' 0",197 lbs,3,San José State
+Jovante Moffatt,S,26,5' 11",213 lbs,3,Middle Tennessee
+Jalen Thompson,S,25,5' 11",190 lbs,5,Washington State
+K'Von Wallace,S,26,5' 11",205 lbs,4,Clemson
+Matt Prater,PK,39,5' 10",201 lbs,17,UCF
+Nolan Cooney,P,26,6' 3",202 lbs,1,Syracuse
+Aaron Brewer,LS,33,6' 5",232 lbs,12,San Diego State

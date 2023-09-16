@@ -3,8 +3,13 @@ from bs4 import BeautifulSoup
 from functools import reduce
 
 
-
 playerInfoList = ["Name", "Position", "Age", "Height", "Weight", "Experience", "College"]
+
+def soupObject(URL):
+    headers = {'User-Agent': '...'}
+    r = requests.get(url=URL, headers=headers)
+    
+    return BeautifulSoup(r.content, 'html5lib')
 
 def parsePlayers(playerInfo): 
     def anonimous(tableHtml):
@@ -26,22 +31,26 @@ def parsePlayers(playerInfo):
         return players
     return anonimous
 
-
 def scrapeTeamPlayers(URL):
-    
-    headers = {'User-Agent': '...'}
-    r = requests.get(url=URL, headers=headers)
-    soup = BeautifulSoup(r.content, 'html5lib')
-    
+    print("Team url is" + URL)
+    soup = soupObject(URL)
     allPlayers = [soup.find('div', attrs={'class':'ResponsiveTable Offense'}).find('tbody'),
     soup.find('div', attrs={'class':'ResponsiveTable Defense'}).find('tbody'),
     soup.find('div', attrs={'class':'ResponsiveTable Special Teams'}).find('tbody')]
 
     parsingFunction = parsePlayers(playerInfoList)
     parsedPlayers = reduce(lambda a,b: a + b, map(parsingFunction, allPlayers))
-
-    fileName = "Players/SanFranciscoPlayers.txt"
-
+    
+    return parsedPlayers
+    
+def scrapeNFLTeamURL(URL):
+    nflTeamBoxes = soupObject(URL).find('div', attrs={"id": "my-players-table"}).findAll('div', attrs={"class", "span-2"})
+    allTeamsList = reduce(lambda x,y: x + y, map(lambda a:  a.findAll('li'), list(nflTeamBoxes)))
+    allTeamsURL = map(lambda a: a.find('div').a['href'], allTeamsList)
+    
+    return allTeamsURL
+     
+def writeAllPlayers(fileName, parsedPlayers):
     playerOutFile = open(fileName, "w")
 
     for row in parsedPlayers:
@@ -53,24 +62,16 @@ def scrapeTeamPlayers(URL):
         playerOutFile.write('\n')
         
     playerOutFile.close()
-    
-def scrapeNFLTeamURL():
-    
-
-    
-    nflTeamBoxes = soup.find('div', attrs={"id": "my-players-table"}).findAll('div', attrs={"class", "span-2"})
-    allTeams = reduce(lambda x,y: x + y, map(lambda a:  a.findAll('li'), list(nflTeamBoxes)))
-    
-    for i in allTeams:
-        print(i.a['href'])
         
-def soupObject(url):
-    headers = {'User-Agent': '...'}
-    r = requests.get(url=URL, headers=headers)
-    soup = BeautifulSoup(r.content, 'html5lib')
+def composeScraping():
+    rootURL = "https://www.espn.com/nfl/players"
 
-rootURL = "https://www.espn.com/nfl/players"
+    for team in scrapeNFLTeamURL(rootURL):
+        teamName = team.split("/")[-1]
+        fileName = f"Players/{teamName}.txt"
 
-scrapeNFLTeamURL()
+        writeAllPlayers(fileName, scrapeTeamPlayers(f"https://espn.com{team}")) 
+    
+composeScraping()
 
 

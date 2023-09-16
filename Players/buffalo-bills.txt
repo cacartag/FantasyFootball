@@ -1,0 +1,73 @@
+Josh Allen,QB,27,6' 5",237 lbs,6,Wyoming
+Kyle Allen,QB,27,6' 3",210 lbs,5,Houston
+Shane Buechele,QB,25,6' 0",210 lbs,3,SMU
+James Cook,RB,23,5' 11",190 lbs,2,Georgia
+Damien Harris,RB,26,5' 11",213 lbs,5,Alabama
+Ty Johnson,RB,25,5' 10",210 lbs,5,Maryland
+Latavius Murray,RB,33,6' 3",230 lbs,11,UCF
+Reggie Gilliam,FB,26,6' 0",244 lbs,4,Toledo
+Marcell Ateman,WR,28,6' 4",216 lbs,3,Oklahoma State
+Gabe Davis,WR,24,6' 2",210 lbs,4,UCF
+Stefon Diggs,WR,29,6' 0",191 lbs,9,Maryland
+Deonte Harty,WR,25,5' 6",170 lbs,5,Assumption
+Andy Isabella,WR,26,5' 9",188 lbs,5,Massachusetts
+Khalil Shakir,WR,23,6' 0",190 lbs,2,Boise State
+Tyrell Shavers,WR,24,6' 6",210 lbs,R,Middle Tennessee
+Trent Sherfield,WR,27,6' 1",219 lbs,6,Vanderbilt
+Justin Shorter,WR,23,6' 4",223 lbs,R,Florida
+Bryan Thompson,WR,24,6' 3",200 lbs,R,Arizona State
+Dalton Kincaid,TE,23,6' 4",240 lbs,R,Utah
+Dawson Knox,TE,26,6' 4",254 lbs,5,Ole Miss
+Quintin Morris,TE,24,6' 2",252 lbs,2,Bowling Green
+Joel Wilson,TE,23,6' 4",250 lbs,R,Central Michigan
+Greg Mancz,C,31,6' 4",302 lbs,8,Toledo
+Mitch Morse,C,31,6' 6",305 lbs,9,Missouri
+Ryan Bates,G,26,6' 4",302 lbs,4,Penn State
+David Edwards,G,26,6' 6",308 lbs,5,Wisconsin
+Germain Ifedi,G,29,6' 5",325 lbs,8,Texas A&M
+Kevin Jarvis,G,24,6' 6",325 lbs,1,Michigan State
+Connor McGovern,G,25,6' 5",308 lbs,5,Penn State
+O'Cyrus Torrence,G,23,6' 5",347 lbs,R,Florida
+Alec Anderson,OT,23,6' 5",305 lbs,1,UCLA
+Spencer Brown,OT,25,6' 8",311 lbs,3,Northern Iowa
+Dion Dawkins,OT,29,6' 5",320 lbs,7,Temple
+Tommy Doyle,OT,25,6' 8",320 lbs,3,Miami (OH)
+Richard Gouraige,OT,24,6' 5",308 lbs,R,Florida
+Ryan Van Demark,OT,25,6' 6",307 lbs,1,UConn
+Kameron Cline,DE,25,6' 4",283 lbs,1,South Dakota
+AJ Epenesa,DE,25,6' 6",260 lbs,4,Iowa
+Leonard Floyd,DE,31,6' 5",240 lbs,7,Georgia
+Kingsley Jonathan,DE,25,6' 4",260 lbs,2,Syracuse
+Shaq Lawson,DE,29,6' 3",265 lbs,8,Clemson
+Greg Rousseau,DE,23,6' 6",266 lbs,3,Miami
+Eli Ankou,DT,29,6' 3",325 lbs,6,UCLA
+Poona Ford,DT,27,5' 11",310 lbs,6,Texas
+DaQuan Jones,DT,31,6' 4",320 lbs,10,Penn State
+Ed Oliver,DT,25,6' 1",287 lbs,5,Houston
+Jordan Phillips,DT,30,6' 6",341 lbs,9,Oklahoma
+Tim Settle,DT,26,6' 3",313 lbs,6,Virginia Tech
+Kendal Vickers,DT,28,6' 3",295 lbs,3,Tennessee
+Terrel Bernard,LB,24,6' 1",224 lbs,2,Baylor
+Tyrel Dodson,LB,25,6' 0",237 lbs,4,Texas A&M
+Christian Kirksey,LB,31,6' 2",235 lbs,10,Iowa
+Tyler Matakevich,LB,30,6' 1",235 lbs,8,Temple
+Matt Milano,LB,29,6' 0",223 lbs,7,Boston College
+Von Miller,LB,34,6' 3",250 lbs,13,Texas A&M
+Baylon Spector,LB,24,6' 2",233 lbs,2,Clemson
+Dorian Williams,LB,22,6' 2",225 lbs,R,Tulane
+Christian Benford,CB,22,6' 1",205 lbs,2,Villanova
+Kyron Brown,CB,27,6' 1",195 lbs,3,Akron
+Kaiir Elam,CB,22,6' 1",191 lbs,2,Florida
+Ja'Marcus Ingram,CB,26,6' 2",190 lbs,1,Buffalo
+Dane Jackson,CB,26,5' 11",180 lbs,4,Pittsburgh
+Taron Johnson,CB,27,5' 11",192 lbs,6,Weber State
+Cam Lewis,CB,26,5' 9",183 lbs,4,Buffalo
+Siran Neal,CB,29,6' 0",206 lbs,6,Jacksonville State
+Tre'Davious White,CB,28,5' 11",192 lbs,7,LSU
+Damar Hamlin,S,25,6' 0",200 lbs,3,Pittsburgh
+Micah Hyde,S,32,6' 0",197 lbs,11,Iowa
+Jordan Poyer,S,32,6' 0",191 lbs,11,Oregon State
+Taylor Rapp,S,25,6' 0",208 lbs,5,Washington
+Tyler Bass,PK,26,5' 10",183 lbs,4,Georgia Southern
+Sam Martin,P,33,6' 1",205 lbs,11,Appalachian State
+Reid Ferguson,LS,29,6' 2",235 lbs,7,LSU

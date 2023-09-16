@@ -1,0 +1,78 @@
+Drew Lock,QB,26,6' 4",228 lbs,5,Missouri
+Geno Smith,QB,32,6' 3",221 lbs,11,West Virginia
+Zach Charbonnet,RB,22,6' 1",214 lbs,R,UCLA
+DeeJay Dallas,RB,24,5' 10",214 lbs,4,Miami
+Kenny McIntosh,RB,23,6' 0",204 lbs,R,Georgia
+SaRodorick Thompson Jr.,RB,23,6' 0",215 lbs,1,Texas Tech
+Kenneth Walker III,RB,22,5' 9",211 lbs,2,Michigan State
+Jake Bobo,WR,25,6' 4",207 lbs,R,UCLA
+Dee Eskridge,WR,26,5' 9",190 lbs,3,Western Michigan
+Ra'Shaun Henry,WR,25,6' 3",190 lbs,1,Virginia
+Cade Johnson,WR,25,5' 10",184 lbs,1,South Dakota State
+Matt Landers,WR,24,6' 4",200 lbs,R,Kansas
+Tyler Lockett,WR,30,5' 10",182 lbs,9,Kansas State
+DK Metcalf,WR,25,6' 4",235 lbs,5,Ole Miss
+Jaxon Smith-Njigba,WR,21,6' 0",197 lbs,R,Ohio State
+Cody Thompson,WR,27,6' 2",205 lbs,2,Toledo
+Easop Winston Jr.,WR,26,6' 0",190 lbs,1,Washington State
+Dareke Young,WR,24,6' 2",224 lbs,2,Lenoir-Rhyne
+Will Dissly,TE,27,6' 4",265 lbs,6,Washington
+Noah Fant,TE,25,6' 4",249 lbs,5,Iowa
+Tyler Mabry,TE,26,6' 3",247 lbs,2,Maryland
+Colby Parkinson,TE,24,6' 7",251 lbs,4,Stanford
+Evan Brown,C,26,6' 2",320 lbs,5,SMU
+Joey Hunt,C,29,6' 2",299 lbs,5,TCU
+Olu Oluwatimi,C,24,6' 3",309 lbs,R,Michigan
+Anthony Bradford,G,22,6' 5",332 lbs,R,LSU
+Ben Brown,G,25,6' 5",313 lbs,2,Ole Miss
+McClendon Curtis,G,24,6' 6",325 lbs,R,Chattanooga
+Phil Haynes,G,27,6' 4",322 lbs,5,Wake Forest
+Damien Lewis,G,26,6' 2",327 lbs,4,LSU
+Charles Cross,OT,22,6' 5",311 lbs,2,Mississippi State
+Jake Curhan,OT,25,6' 6",316 lbs,3,California
+Greg Eiland,OT,25,6' 8",321 lbs,1,Mississippi State
+Stone Forsythe,OT,25,6' 8",307 lbs,3,Florida
+Abraham Lucas,OT,24,6' 6",322 lbs,2,Washington State
+Raiqwon O'Neal,OT,23,6' 4",305 lbs,R,UCLA
+Jason Peters,OT,41,6' 4",328 lbs,20,Arkansas
+Mario Edwards Jr.,DE,29,6' 3",280 lbs,9,Florida State
+Dre'Mont Jones,DE,26,6' 3",281 lbs,5,Ohio State
+Mike Morris,DE,22,6' 6",295 lbs,R,Michigan
+Myles Adams,DT,25,6' 2",290 lbs,2,Rice
+Austin Faoliu,DT,24,6' 3",305 lbs,1,Oregon
+Matt Gotel,DT,24,6' 1",341 lbs,R,West Florida
+Bryan Mone,DT,27,6' 3",345 lbs,4,Michigan
+Jarran Reed,DT,30,6' 3",306 lbs,8,Alabama
+Cameron Young,DT,23,6' 3",304 lbs,R,Mississippi State
+Levi Bell,LB,24,5' 11",262 lbs,R,Texas State
+Nick Bellore,LB,34,6' 1",250 lbs,13,Central Michigan
+Jordyn Brooks,LB,25,6' 0",240 lbs,4,Texas Tech
+Devin Bush,LB,25,5' 11",234 lbs,5,Michigan
+Derick Hall,LB,22,6' 3",254 lbs,R,Auburn
+Boye Mafe,LB,24,6' 4",261 lbs,2,Minnesota
+Uchenna Nwosu,LB,26,6' 2",251 lbs,6,USC
+Patrick O'Connell,LB,24,6' 1",227 lbs,R,Montana
+Joshua Onujiogu,LB,25,6' 2",252 lbs,1,Framingham State
+Jon Rhattigan,LB,24,6' 0",236 lbs,3,Army
+Tyreke Smith,LB,23,6' 3",255 lbs,2,Ohio State
+Darrell Taylor,LB,26,6' 4",267 lbs,3,Tennessee
+Drake Thomas,LB,23,5' 11",228 lbs,R,NC State
+Bobby Wagner,LB,33,6' 0",242 lbs,12,Utah State
+Lance Boykin,CB,23,6' 2",198 lbs,R,Coastal Carolina
+Tre Brown,CB,25,5' 10",185 lbs,3,Oklahoma
+Coby Bryant,CB,24,6' 1",193 lbs,2,Cincinnati
+Artie Burns,CB,28,6' 0",187 lbs,8,Miami
+Michael Jackson,CB,26,6' 1",210 lbs,3,Miami
+Kyu Kelly,CB,22,6' 1",193 lbs,R,Stanford
+Robert Rochell,CB,25,6' 2",195 lbs,3,Central Arkansas
+Andrew Whitaker,CB,24,6' 0",183 lbs,R,Washington University (St. Louis)
+Devon Witherspoon,CB,22,6' 0",185 lbs,R,Illinois
+Riq Woolen,CB,24,6' 4",210 lbs,2,UTSA
+Jamal Adams,S,27,6' 1",213 lbs,6,LSU
+Quandre Diggs,S,30,5' 9",197 lbs,9,Texas
+Julian Love,S,25,5' 11",195 lbs,5,Notre Dame
+Ty Okada,S,24,5' 11",185 lbs,R,Montana State
+Jerrick Reed II,S,23,5' 9",196 lbs,R,New Mexico
+Jason Myers,PK,32,5' 10",190 lbs,9,Marist
+Michael Dickson,P,27,6' 2",208 lbs,6,Texas
+Chris Stoll,LS,25,6' 2",255 lbs,R,Penn State

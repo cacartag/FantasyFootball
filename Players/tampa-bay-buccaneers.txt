@@ -1,0 +1,70 @@
+Baker Mayfield,QB,28,6' 1",215 lbs,6,Oklahoma
+Kyle Trask,QB,25,6' 5",236 lbs,3,Florida
+John Wolford,QB,27,6' 1",200 lbs,4,Wake Forest
+Chase Edmonds,RB,27,5' 9",205 lbs,6,Fordham
+Patrick Laird,RB,28,6' 0",205 lbs,4,California
+Sean Tucker,RB,21,5' 10",210 lbs,R,Syracuse
+Ke'Shawn Vaughn,RB,26,5' 10",214 lbs,4,Vanderbilt
+Rachaad White,RB,24,6' 0",214 lbs,2,Arizona State
+Mike Evans,WR,30,6' 5",231 lbs,10,Texas A&M
+Chris Godwin,WR,27,6' 1",208 lbs,7,Penn State
+Rakim Jarrett,WR,22,6' 0",190 lbs,R,Maryland
+Cephus Johnson,WR,23,6' 5",220 lbs,R,SE Louisiana
+Ryan Miller,WR,23,6' 1",209 lbs,R,Furman
+David Moore,WR,28,6' 0",219 lbs,5,East Central (OK)
+Trey Palmer,WR,22,6' 0",192 lbs,R,Nebraska
+Deven Thompkins,WR,23,5' 8",155 lbs,2,Utah State
+Payne Durham,TE,23,6' 6",253 lbs,R,Purdue
+Ko Kieft,TE,25,6' 5",265 lbs,2,Minnesota
+Cade Otton,TE,24,6' 5",247 lbs,2,Washington
+Tanner Taula,TE,24,6' 6",251 lbs,R,Illinois State
+David Wells,TE,28,6' 6",260 lbs,3,San Diego State
+Robert Hainsey,C,25,6' 4",306 lbs,3,Notre Dame
+Ryan Jensen,C,32,6' 4",319 lbs,10,CSU Pueblo
+Matt Feiler,G,31,6' 6",330 lbs,7,Bloomsburg
+Nick Leverett,G,26,6' 4",310 lbs,3,Rice
+Cody Mauch,G,24,6' 5",302 lbs,R,North Dakota State
+John Molchon,G,26,6' 5",309 lbs,4,Boise State
+Aaron Stinnie,G,29,6' 3",312 lbs,6,James Madison
+Silas Dzansi,OT,25,6' 5",337 lbs,R,Virginia Tech
+Luke Goedeke,OT,24,6' 5",312 lbs,2,Central Michigan
+Luke Haggard,OT,23,6' 6",297 lbs,R,Indiana
+Justin Skule,OT,26,6' 6",315 lbs,4,Vanderbilt
+Brandon Walton,OT,25,6' 5",300 lbs,2,Florida Atlantic
+Tristan Wirfs,OT,24,6' 5",320 lbs,4,Iowa
+William Gholston,DE,32,6' 6",281 lbs,11,Michigan State
+Mike Greene,DE,24,6' 3",293 lbs,1,James Madison
+Logan Hall,DE,23,6' 6",283 lbs,2,Houston
+Patrick O'Connor,DE,29,6' 4",270 lbs,5,Eastern Michigan
+C.J. Brewer,DT,25,6' 2",290 lbs,1,Coastal Carolina
+Greg Gaines,DT,27,6' 1",312 lbs,5,Washington
+Calijah Kancey,DT,22,6' 1",281 lbs,R,Pittsburgh
+Vita Vea,DT,28,6' 4",347 lbs,6,Washington
+Shaquil Barrett,LB,30,6' 2",250 lbs,10,Colorado State
+Brandon Bouyer-Randle,LB,26,6' 2",241 lbs,R,UConn
+K.J. Britt,LB,24,6' 0",235 lbs,3,Auburn
+Lavonte David,LB,33,6' 1",233 lbs,12,Nebraska
+SirVocea Dennis,LB,23,6' 0",226 lbs,R,Pittsburgh
+Yaya Diaby,LB,24,6' 3",263 lbs,R,Louisville
+Cam Gill,LB,25,6' 3",240 lbs,4,Wagner
+Anthony Nelson,LB,26,6' 7",271 lbs,5,Iowa
+Jose Ramirez,LB,24,6' 2",242 lbs,R,Eastern Michigan
+J.J. Russell,LB,24,6' 1",225 lbs,2,Memphis
+Joe Tryon-Shoyinka,LB,24,6' 5",259 lbs,3,Washington
+Markees Watts,LB,23,6' 1",240 lbs,R,Charlotte
+Devin White,LB,25,6' 0",237 lbs,5,LSU
+Carlton Davis III,CB,26,6' 1",206 lbs,6,Auburn
+Jamel Dean,CB,26,6' 1",206 lbs,5,Auburn
+Dee Delaney,CB,28,5' 11",200 lbs,3,Miami
+Keenan Isaac,CB,23,6' 2",186 lbs,R,Alabama State
+Zyon McCollum,CB,24,6' 2",199 lbs,2,Sam Houston State
+Derrek Pitts,CB,25,6' 0",177 lbs,R,NC State
+Josh Hayes,S,24,5' 11",197 lbs,R,Kansas State
+Christian Izien,S,23,5' 8",197 lbs,R,Rutgers
+Richard LeCounte III,S,25,5' 11",196 lbs,2,Georgia
+Kaevon Merriweather,S,23,6' 0",207 lbs,R,Iowa
+Ryan Neal,S,27,6' 3",200 lbs,4,Southern Illinois
+Antoine Winfield Jr.,S,25,5' 9",203 lbs,4,Minnesota
+Chase McLaughlin,PK,27,6' 1",175 lbs,5,Illinois
+Jake Camarda,P,24,6' 1",193 lbs,2,Georgia
+Zach Triner,LS,32,6' 3",245 lbs,5,Assumption

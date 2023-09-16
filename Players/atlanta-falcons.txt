@@ -1,0 +1,78 @@
+Taylor Heinicke,QB,30,6' 1",210 lbs,6,Old Dominion
+Desmond Ridder,QB,24,6' 3",207 lbs,2,Cincinnati
+Logan Woodside,QB,28,6' 1",213 lbs,4,Toledo
+Tyler Allgeier,RB,23,5' 11",220 lbs,2,BYU
+Godwin Igwebuike,RB,29,6' 0",213 lbs,4,Northwestern
+Cordarrelle Patterson,RB,32,6' 2",220 lbs,11,Tennessee
+Bijan Robinson,RB,21,5' 11",215 lbs,R,Texas
+Keith Smith,FB,31,6' 0",240 lbs,10,San José State
+Josh Ali,WR,24,6' 0",193 lbs,1,Kentucky
+Penny Hart,WR,27,5' 8",180 lbs,4,Georgia State
+KhaDarel Hodge,WR,28,6' 2",203 lbs,6,Prarie View A&M
+Mack Hollins,WR,29,6' 4",221 lbs,7,North Carolina
+Drake London,WR,22,6' 4",213 lbs,2,USC
+Zay Malone,WR,23,5' 9",180 lbs,R,Henderson State
+Scott Miller,WR,26,5' 9",174 lbs,5,Bowling Green
+C.J. Saunders,WR,27,5' 10",190 lbs,1,Ohio State
+Mathew Sexton,WR,25,5' 10",173 lbs,1,Eastern Michigan
+Tucker Fisk,TE,24,6' 4",285 lbs,1,Stanford
+John FitzPatrick,TE,23,6' 7",250 lbs,2,Georgia
+Feleipe Franks,TE,25,6' 6",234 lbs,3,Arkansas
+Parker Hesse,TE,28,6' 3",261 lbs,3,Iowa
+Kyle Pitts,TE,22,6' 6",246 lbs,3,Florida
+MyCole Pruitt,TE,31,6' 2",258 lbs,8,Southern Illinois
+Jonnu Smith,TE,28,6' 3",248 lbs,7,Florida International
+Drew Dalman,C,24,6' 3",300 lbs,3,Stanford
+Matt Hennessy,C,25,6' 3",307 lbs,4,Temple
+Matthew Bergeron,G,23,6' 5",322 lbs,R,Syracuse
+Jovaughn Gwyn,G,24,6' 3",300 lbs,R,South Carolina
+Kyle Hinton,G,25,6' 2",315 lbs,1,Washburn
+Chris Lindstrom,G,26,6' 3",307 lbs,5,Boston College
+Ryan Neuzil,G,26,6' 3",301 lbs,2,Appalachian State
+Justin Shaffer,G,25,6' 4",330 lbs,1,Georgia
+Ethan Greenidge,OT,26,6' 4",335 lbs,5,Villanova
+Jake Matthews,OT,31,6' 5",309 lbs,10,Texas A&M
+Kaleb McGary,OT,28,6' 6",306 lbs,5,Washington
+Joshua Miles,OT,27,6' 5",325 lbs,4,Morgan State
+Isaiah Prince,OT,26,6' 7",305 lbs,5,Ohio State
+Tyler Vrabel,OT,23,6' 6",315 lbs,1,Boston College
+Barry Wesley,OT,24,6' 7",310 lbs,R,Colorado State
+Ikenna Enechukwu,DE,23,6' 4",269 lbs,R,Rice
+Joe Gaziano,DE,26,6' 4",280 lbs,3,Northwestern
+Zach Harrison,DE,22,6' 6",272 lbs,R,Ohio State
+Grady Jarrett,DE,30,6' 0",305 lbs,9,Clemson
+LaCale London,DE,26,6' 5",280 lbs,1,Western Illinois
+Calais Campbell,DT,37,6' 8",282 lbs,16,Miami
+Eddie Goldman,DT,29,6' 3",332 lbs,7,Florida State
+Ta'Quon Graham,DT,24,6' 4",294 lbs,3,Texas
+Timmy Horne,DT,25,6' 4",323 lbs,2,Kansas State
+Albert Huggins,DT,26,6' 3",305 lbs,3,Clemson
+David Onyemata,DT,30,6' 4",300 lbs,8,Manitoba
+Troy Andersen,LB,24,6' 4",235 lbs,2,Montana State
+Lorenzo Carter,LB,27,6' 5",252 lbs,6,Georgia
+Tae Davis,LB,27,6' 1",224 lbs,5,Chattanooga
+Bud Dupree,LB,30,6' 4",269 lbs,9,Kentucky
+Arnold Ebiketie,LB,24,6' 3",256 lbs,2,Penn State
+Kaden Elliss,LB,28,6' 3",238 lbs,5,Idaho
+Nate Landman,LB,24,6' 3",235 lbs,2,Colorado
+DeAngelo Malone,LB,24,6' 4",240 lbs,2,Western Kentucky
+Adetokunbo Ogundeji,LB,24,6' 4",268 lbs,3,Notre Dame
+Andre Smith,LB,26,6' 0",240 lbs,5,North Carolina
+Kemoko Turay,LB,28,6' 5",253 lbs,5,Rutgers
+Dee Alford,CB,25,5' 11",175 lbs,2,Tusculum
+Natrone Brooks,CB,23,5' 11",176 lbs,R,Southern Miss
+Tre Flowers,CB,28,6' 3",200 lbs,6,Oklahoma State
+Mike Hughes,CB,26,5' 10",191 lbs,6,UCF
+Jeff Okudah,CB,24,6' 1",205 lbs,4,Ohio State
+Clark Phillips III,CB,21,5' 10",183 lbs,R,Utah
+A.J. Terrell,CB,24,6' 1",195 lbs,4,Clemson
+Avery Williams,CB,25,5' 9",195 lbs,3,Boise State
+Micah Abernathy,S,26,6' 0",196 lbs,1,Tennessee
+Jessie Bates III,S,26,6' 1",200 lbs,6,Wake Forest
+Lukas Denis,S,21,5' 11",190 lbs,R,Boston College
+Richie Grant,S,25,6' 0",200 lbs,3,UCF
+Jaylinn Hawkins,S,26,6' 1",208 lbs,4,California
+DeMarcco Hellams,S,23,6' 1",208 lbs,R,Alabama
+Younghoe Koo,PK,29,5' 9",185 lbs,5,Georgia Southern
+Bradley Pinion,P,29,6' 5",229 lbs,9,Clemson
+Liam McCullough,LS,26,6' 2",237 lbs,2,Ohio State

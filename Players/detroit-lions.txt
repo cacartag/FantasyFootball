@@ -1,0 +1,78 @@
+David Blough,QB,28,6' 1",207 lbs,4,Purdue
+Teddy Bridgewater,QB,30,6' 2",212 lbs,10,Louisville
+Jared Goff,QB,28,6' 4",217 lbs,8,California
+Hendon Hooker,QB,25,6' 3",220 lbs,R,Tennessee
+Nate Sudfeld,QB,29,6' 6",230 lbs,7,Indiana
+Jahmyr Gibbs,RB,21,5' 9",200 lbs,R,Alabama
+Justin Jackson,RB,27,6' 0",199 lbs,6,Northwestern
+Zonovan Knight,RB,22,5' 11",210 lbs,2,NC State
+David Montgomery,RB,26,5' 11",224 lbs,5,Iowa State
+Craig Reynolds,RB,27,5' 11",216 lbs,2,Kutztown
+Jason Cabinda,FB,27,6' 1",235 lbs,5,Penn State
+Maurice Alexander,WR,26,5' 11",180 lbs,1,Florida International
+Dylan Drummond,WR,23,6' 0",186 lbs,R,Eastern Michigan
+Daurice Fountain,WR,27,6' 1",210 lbs,4,Northern Iowa
+Antoine Green,WR,23,6' 2",199 lbs,R,North Carolina
+Marvin Jones Jr.,WR,33,6' 2",199 lbs,12,California
+Tom Kennedy,WR,27,5' 10",195 lbs,3,Bryant University
+Kalif Raymond,WR,29,5' 8",180 lbs,7,Holy Cross
+Josh Reynolds,WR,28,6' 3",194 lbs,7,Texas A&M
+Amon-Ra St. Brown,WR,23,6' 0",202 lbs,3,USC
+Jameson Williams,WR,22,6' 1",189 lbs,2,Alabama
+Darrell Daniels,TE,28,6' 3",256 lbs,6,Washington
+Sam LaPorta,TE,22,6' 3",245 lbs,R,Iowa
+James Mitchell,TE,24,6' 4",246 lbs,2,Virginia Tech
+Brock Wright,TE,24,6' 5",250 lbs,3,Notre Dame
+Shane Zylstra,TE,26,6' 4",240 lbs,2,Minnesota State Mankato
+Frank Ragnow,C,27,6' 5",310 lbs,6,Arkansas
+Kayode Awosika,G,24,6' 3",315 lbs,2,Buffalo
+Graham Glasgow,G,31,6' 6",315 lbs,8,Michigan
+Jonah Jackson,G,26,6' 4",311 lbs,4,Ohio State
+Michael Niese,G,25,6' 5",295 lbs,1,Temple
+Halapoulivaati Vaitai,G,30,6' 6",322 lbs,8,TCU
+Taylor Decker,OT,29,6' 7",318 lbs,8,Ohio State
+Connor Galvin,OT,24,6' 7",300 lbs,R,Baylor
+Matt Nelson,OT,27,6' 7",315 lbs,4,Iowa
+Max Pircher,OT,24,6' 7",300 lbs,1,--
+Penei Sewell,OT,22,6' 5",335 lbs,3,Oregon
+Colby Sorsdal,OT,23,6' 6",315 lbs,R,William & Mary
+Isaiah Buggs,DE,27,6' 3",335 lbs,5,Alabama
+John Cominsky,DE,27,6' 5",285 lbs,5,University of Charleston (WV)
+Charles Harris,DE,28,6' 3",250 lbs,7,Missouri
+Aidan Hutchinson,DE,23,6' 7",268 lbs,2,Michigan
+Raymond Johnson III,DE,24,6' 3",270 lbs,2,Georgia Southern
+Zach Morton,DE,24,6' 4",260 lbs,R,Akron
+Romeo Okwara,DE,28,6' 4",255 lbs,8,Notre Dame
+Levi Onwuzurike,DE,25,6' 3",290 lbs,3,Washington
+Josh Paschal,DE,23,6' 3",274 lbs,2,Kentucky
+Quinton Bohanna,DT,24,6' 4",330 lbs,3,Kentucky
+Benito Jones,DT,25,6' 1",335 lbs,3,Ole Miss
+Brodric Martin,DT,24,6' 5",330 lbs,R,Western Kentucky
+Alim McNeill,DT,23,6' 2",315 lbs,3,NC State
+Chris Smith,DT,23,6' 1",305 lbs,R,Notre Dame
+Alex Anzalone,LB,28,6' 3",238 lbs,7,Florida
+Derrick Barnes,LB,24,6' 0",240 lbs,3,Purdue
+Jack Campbell,LB,23,6' 5",243 lbs,R,Iowa
+James Houston,LB,24,6' 1",245 lbs,2,Jackson State
+Trevor Nowaske,LB,24,6' 3",235 lbs,R,Saginaw Valley State
+Julian Okwara,LB,25,6' 4",239 lbs,4,Notre Dame
+Anthony Pittman,LB,26,6' 3",242 lbs,3,Wayne State (MI)
+Jalen Reeves-Maybin,LB,28,6' 1",226 lbs,7,Tennessee
+Malcolm Rodriguez,LB,24,5' 11",234 lbs,2,Oklahoma State
+Khalil Dorsey,CB,25,5' 8",185 lbs,3,Northern Arizona
+Steven Gilmore,CB,23,6' 0",174 lbs,R,Marshall
+Will Harris,CB,27,6' 1",206 lbs,5,Boston College
+Jerry Jacobs,CB,25,5' 11",203 lbs,3,Arkansas
+Chase Lucas,CB,26,5' 11",184 lbs,2,Arizona State
+Emmanuel Moseley,CB,27,5' 11",195 lbs,6,Tennessee
+Cameron Sutton,CB,28,5' 11",180 lbs,7,Tennessee
+Brian Branch,S,21,6' 0",203 lbs,R,Alabama
+C.J. Gardner-Johnson,S,25,5' 11",208 lbs,4,Florida
+Brandon Joseph,S,22,6' 0",200 lbs,R,Notre Dame
+Kerby Joseph,S,22,6' 1",203 lbs,2,Illinois
+Ifeatu Melifonwu,S,24,6' 3",210 lbs,3,Syracuse
+Tracy Walker III,S,28,6' 1",206 lbs,6,Louisiana
+Michael Badgley,PK,28,5' 10",183 lbs,6,Miami
+Riley Patterson,PK,24,6' 0",195 lbs,3,Memphis
+Jack Fox,P,27,6' 2",218 lbs,4,Rice
+Scott Daly,LS,29,6' 1",245 lbs,3,Notre Dame
