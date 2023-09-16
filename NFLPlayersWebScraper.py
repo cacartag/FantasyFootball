@@ -32,7 +32,6 @@ def parsePlayers(playerInfo):
     return anonimous
 
 def scrapeTeamPlayers(URL):
-    print("Team url is" + URL)
     soup = soupObject(URL)
     allPlayers = [soup.find('div', attrs={'class':'ResponsiveTable Offense'}).find('tbody'),
     soup.find('div', attrs={'class':'ResponsiveTable Defense'}).find('tbody'),
