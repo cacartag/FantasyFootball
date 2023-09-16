@@ -51,14 +51,12 @@ def scrapeNFLTeamURL(URL):
      
 def writeAllPlayers(fileName, parsedPlayers):
     playerOutFile = open(fileName, "w")
+    lineToWrite = ",".join(playerInfoList)
 
+    playerOutFile.write(lineToWrite + '\n')
     for row in parsedPlayers:
-        lineToWrite = ""
-        for column in row:
-            lineToWrite += row[column] + ','
-           
-        playerOutFile.write(lineToWrite[:-1])
-        playerOutFile.write('\n')
+        lineToWrite = ",".join(row.values())
+        playerOutFile.write(lineToWrite + '\n')
         
     playerOutFile.close()
         
@@ -67,7 +65,8 @@ def composeScraping():
 
     for team in scrapeNFLTeamURL(rootURL):
         teamName = team.split("/")[-1]
-        fileName = f"Players/{teamName}.txt"
+        print(f"scraping for {teamName}")
+        fileName = f"Players/{teamName}.csv"
 
         writeAllPlayers(fileName, scrapeTeamPlayers(f"https://espn.com{team}")) 
     
